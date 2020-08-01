@@ -1,0 +1,26 @@
+﻿h2 {
+    color: greenyellow;
+}
+
+h6 {
+    color: greenyellow;
+}
+
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+textarea{
+    color: greenyellow;
+    background-color: rgb(50, 50, 50);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
